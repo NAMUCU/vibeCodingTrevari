@@ -1,6 +1,6 @@
 "use client";
 
-const GITHUB_URL = "https://github.com/vibeCodingTrevari/vibeCodingTrevari";
+const GITHUB_URL = "https://github.com/NAMUCU/vibeCodingTrevari";
 
 const sections = [
   { id: "problem", label: "Problem" },
